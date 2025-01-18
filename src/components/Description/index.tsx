@@ -43,7 +43,7 @@ const About = () => {
 
       <div className="container">
         <div className="wow fadeInUp" data-wow-delay=".2s">
-          <div className="-mx-4 flex flex-wrap items-center">
+          <div className="-mx-4 flex flex-wrap items-center lg:flex-row-reverse">
             <div className="w-full px-4 lg:w-1/2">
               <div className="mb-12 max-w-[540px] lg:mb-0">
                 <h2 className="mb-5 text-3xl font-bold leading-tight text-dark dark:text-white sm:text-[40px] sm:leading-[1.2]">
@@ -117,7 +117,7 @@ const About = () => {
 
       <div className="container">
         <div className="wow fadeInUp" data-wow-delay=".2s">
-          <div className="-mx-4 flex flex-wrap items-center">
+          <div className="-mx-4 flex flex-wrap items-center lg:flex-row-reverse">
             <div className="w-full px-4 lg:w-1/2">
               <div className="mb-12 max-w-[540px] lg:mb-0">
                 <h2 className="mb-5 text-3xl font-bold leading-tight text-dark dark:text-white sm:text-[40px] sm:leading-[1.2]">
