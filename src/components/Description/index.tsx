@@ -24,7 +24,7 @@ const About = () => {
 
             <div className="w-full px-4 lg:w-1/2">
               <div className="-mx-2 flex flex-wrap sm:-mx-4 lg:-mx-2 xl:-mx-4">
-                <div className="w-full px-2 sm:w-full sm:px-4 lg:px-0 xl:px-0">
+                <div className="w-full p-[50px] sm:w-full">
                   <div className="relative mb-4 sm:mb-8 sm:h-[220px] md:h-[346px] lg:mb-4 lg:h-[225px] xl:mb-8 xl:h-[310px]">
                     <Image
                       src="/images/about/about-image-02.jpg"
@@ -60,7 +60,7 @@ const About = () => {
 
             <div className="w-full px-4 lg:w-1/2">
               <div className="-mx-2 flex flex-wrap sm:-mx-4 lg:-mx-2 xl:-mx-4">
-                <div className="w-full px-2 sm:w-full sm:px-4 lg:px-0 xl:px-0">
+                <div className="w-full p-[50px] sm:w-full">
                   <div className="relative mb-4 sm:mb-8 sm:h-[220px] md:h-[346px] lg:mb-4 lg:h-[225px] xl:mb-8 xl:h-[310px]">
                     <Image
                       src="/images/about/about-image-02.jpg"
@@ -98,7 +98,7 @@ const About = () => {
 
             <div className="w-full px-4 lg:w-1/2">
               <div className="-mx-2 flex flex-wrap sm:-mx-4 lg:-mx-2 xl:-mx-4">
-                <div className="w-full px-2 sm:w-full sm:px-4 lg:px-0 xl:px-0">
+                <div className="w-full p-[50px] sm:w-full">
                   <div className="relative mb-4 sm:mb-8 sm:h-[220px] md:h-[346px] lg:mb-4 lg:h-[225px] xl:mb-8 xl:h-[310px]">
                     <Image
                       src="/images/about/about-image-02.jpg"
@@ -134,7 +134,7 @@ const About = () => {
 
             <div className="w-full px-4 lg:w-1/2">
               <div className="-mx-2 flex flex-wrap sm:-mx-4 lg:-mx-2 xl:-mx-4">
-                <div className="w-full px-2 sm:w-full sm:px-4 lg:px-0 xl:px-0">
+                <div className="w-full p-[50px] sm:w-full">
                   <div className="relative mb-4 sm:mb-8 sm:h-[220px] md:h-[346px] lg:mb-4 lg:h-[225px] xl:mb-8 xl:h-[310px]">
                     <Image
                       src="/images/about/about-image-02.jpg"
@@ -170,7 +170,7 @@ const About = () => {
 
             <div className="w-full px-4 lg:w-1/2">
               <div className="-mx-2 flex flex-wrap sm:-mx-4 lg:-mx-2 xl:-mx-4">
-                <div className="w-full px-2 sm:w-full sm:px-4 lg:px-0 xl:px-0">
+                <div className="w-full p-[50px] sm:w-full">
                   <div className="relative mb-4 sm:mb-8 sm:h-[220px] md:h-[346px] lg:mb-4 lg:h-[225px] xl:mb-8 xl:h-[310px]">
                     <Image
                       src="/images/about/about-image-02.jpg"
