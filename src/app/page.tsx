@@ -4,8 +4,8 @@ import CallToAction from "@/components/CallToAction";
 import Clients from "@/components/Clients";
 import ScrollUp from "@/components/Common/ScrollUp";
 import Contact from "@/components/Contact";
+import Description from "@/components/Description";
 import Faq from "@/components/Faq";
-import Features from "@/components/Features";
 import Hero from "@/components/Hero";
 import Pricing from "@/components/Pricing";
 import Team from "@/components/Team";
@@ -25,13 +25,13 @@ export default function Home() {
     <main>
       <ScrollUp />
       <Hero />
-      <Features />
-      <About />
+      <Description />
       <CallToAction />
       <Pricing />
+      <Team />
+      <About />
       <Testimonials />
       <Faq />
-      <Team />
       <HomeBlogSection posts={posts} />
       <Contact />
       <Clients />
