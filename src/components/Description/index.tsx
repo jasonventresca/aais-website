@@ -12,43 +12,18 @@ const About = () => {
             <div className="w-full px-4 lg:w-1/2">
               <div className="mb-12 max-w-[540px] lg:mb-0">
                 <h2 className="mb-5 text-3xl font-bold leading-tight text-dark dark:text-white sm:text-[40px] sm:leading-[1.2]">
-                  Brilliant Toolkit to Build Next.js SaaS Websites.
+                  AI Solutions for Real Businesses
                 </h2>
                 <p className="mb-10 text-base leading-relaxed text-body-color dark:text-dark-6">
-                  The main thrust is to focus on educating attendees on how to
-                  best protect highly vulnerable business applications with
-                  interactive panel discussions and roundtables led by subject
-                  matter experts.
+                  At Alpine AI Solutions, we specialize in bringing the power of artificial intelligence to small and medium-sized businesses in Northern Arizona.
                   <br /> <br />
-                  The main thrust is to focus on educating attendees on how to
-                  best protect highly vulnerable business applications with
-                  interactive panel.
+                  We understand that as a business owner, your priority is growth, efficiency, and staying competitive—not deciphering complex technology. That’s where we come in.
                 </p>
-
-                <a
-                  href="/#"
-                  className="inline-flex items-center justify-center rounded-md bg-primary px-7 py-3 text-center text-base font-medium text-white duration-300 hover:bg-primary/90"
-                >
-                  Know More
-                </a>
               </div>
             </div>
 
             <div className="w-full px-4 lg:w-1/2">
               <div className="-mx-2 flex flex-wrap sm:-mx-4 lg:-mx-2 xl:-mx-4">
-                <div className="w-full px-2 sm:w-1/2 sm:px-4 lg:px-2 xl:px-4">
-                  <div
-                    className={`relative mb-4 sm:mb-8 sm:h-[400px] md:h-[540px] lg:h-[400px] xl:h-[500px] `}
-                  >
-                    <Image
-                      src="/images/about/about-image-01.jpg"
-                      alt="about image"
-                      fill
-                      className="h-full w-full object-cover object-center"
-                    />
-                  </div>
-                </div>
-
                 <div className="w-full px-2 sm:w-1/2 sm:px-4 lg:px-2 xl:px-4">
                   <div className="relative mb-4 sm:mb-8 sm:h-[220px] md:h-[346px] lg:mb-4 lg:h-[225px] xl:mb-8 xl:h-[310px]">
                     <Image
@@ -58,133 +33,156 @@ const About = () => {
                       className="h-full w-full object-cover object-center"
                     />
                   </div>
+                </div>
+              </div>
+            </div>
 
-                  <div className="relative z-10 mb-4 flex items-center justify-center overflow-hidden bg-primary px-6 py-12 sm:mb-8 sm:h-[160px] sm:p-5 lg:mb-4 xl:mb-8">
-                    <div>
-                      <span className="block text-5xl font-extrabold text-white">
-                        09
-                      </span>
-                      <span className="block text-base font-semibold text-white">
-                        We have
-                      </span>
-                      <span className="block text-base font-medium text-white text-opacity-70">
-                        Years of experience
-                      </span>
-                    </div>
-                    <div>
-                      <span className="absolute left-0 top-0 -z-10">
-                        <svg
-                          width="106"
-                          height="144"
-                          viewBox="0 0 106 144"
-                          fill="none"
-                          xmlns="http://www.w3.org/2000/svg"
-                        >
-                          <rect
-                            opacity="0.1"
-                            x="-67"
-                            y="47.127"
-                            width="113.378"
-                            height="131.304"
-                            transform="rotate(-42.8643 -67 47.127)"
-                            fill="url(#paint0_linear_1416_214)"
-                          />
-                          <defs>
-                            <linearGradient
-                              id="paint0_linear_1416_214"
-                              x1="-10.3111"
-                              y1="47.127"
-                              x2="-10.3111"
-                              y2="178.431"
-                              gradientUnits="userSpaceOnUse"
-                            >
-                              <stop stopColor="white" />
-                              <stop
-                                offset="1"
-                                stopColor="white"
-                                stopOpacity="0"
-                              />
-                            </linearGradient>
-                          </defs>
-                        </svg>
-                      </span>
-                      <span className="absolute right-0 top-0 -z-10">
-                        <svg
-                          width="130"
-                          height="97"
-                          viewBox="0 0 130 97"
-                          fill="none"
-                          xmlns="http://www.w3.org/2000/svg"
-                        >
-                          <rect
-                            opacity="0.1"
-                            x="0.86792"
-                            y="-6.67725"
-                            width="155.563"
-                            height="140.614"
-                            transform="rotate(-42.8643 0.86792 -6.67725)"
-                            fill="url(#paint0_linear_1416_215)"
-                          />
-                          <defs>
-                            <linearGradient
-                              id="paint0_linear_1416_215"
-                              x1="78.6495"
-                              y1="-6.67725"
-                              x2="78.6495"
-                              y2="133.937"
-                              gradientUnits="userSpaceOnUse"
-                            >
-                              <stop stopColor="white" />
-                              <stop
-                                offset="1"
-                                stopColor="white"
-                                stopOpacity="0"
-                              />
-                            </linearGradient>
-                          </defs>
-                        </svg>
-                      </span>
-                      <span className="absolute bottom-0 right-0 -z-10">
-                        <svg
-                          width="175"
-                          height="104"
-                          viewBox="0 0 175 104"
-                          fill="none"
-                          xmlns="http://www.w3.org/2000/svg"
-                        >
-                          <rect
-                            opacity="0.1"
-                            x="175.011"
-                            y="108.611"
-                            width="101.246"
-                            height="148.179"
-                            transform="rotate(137.136 175.011 108.611)"
-                            fill="url(#paint0_linear_1416_216)"
-                          />
-                          <defs>
-                            <linearGradient
-                              id="paint0_linear_1416_216"
-                              x1="225.634"
-                              y1="108.611"
-                              x2="225.634"
-                              y2="256.79"
-                              gradientUnits="userSpaceOnUse"
-                            >
-                              <stop stopColor="white" />
-                              <stop
-                                offset="1"
-                                stopColor="white"
-                                stopOpacity="0"
-                              />
-                            </linearGradient>
-                          </defs>
-                        </svg>
-                      </span>
-                    </div>
+          </div>
+        </div>
+      </div>
+
+      <div className="container">
+        <div className="wow fadeInUp" data-wow-delay=".2s">
+          <div className="-mx-4 flex flex-wrap items-center">
+            <div className="w-full px-4 lg:w-1/2">
+              <div className="mb-12 max-w-[540px] lg:mb-0">
+                <h2 className="mb-5 text-3xl font-bold leading-tight text-dark dark:text-white sm:text-[40px] sm:leading-[1.2]">
+                  Custom AI That Delivers Results
+                </h2>
+                <p className="mb-10 text-base leading-relaxed text-body-color dark:text-dark-6">
+                We offer hands-on, face-to-face service to design and implement custom AI solutions tailored to your unique business needs.
+                  <br /> <br />
+                  Whether it’s fine-tuning AI models to match your brand’s voice, automating workflows with custom-built tools, or setting up data analysis systems that turn your spreadsheets into actionable insights, our solutions are designed to increase profits, lower operating costs, and save you time.
+                </p>
+
+              </div>
+            </div>
+
+            <div className="w-full px-4 lg:w-1/2">
+              <div className="-mx-2 flex flex-wrap sm:-mx-4 lg:-mx-2 xl:-mx-4">
+                <div className="w-full px-2 sm:w-1/2 sm:px-4 lg:px-2 xl:px-4">
+                  <div className="relative mb-4 sm:mb-8 sm:h-[220px] md:h-[346px] lg:mb-4 lg:h-[225px] xl:mb-8 xl:h-[310px]">
+                    <Image
+                      src="/images/about/about-image-02.jpg"
+                      alt="about image"
+                      fill
+                      className="h-full w-full object-cover object-center"
+                    />
                   </div>
                 </div>
               </div>
             </div>
+
+          </div>
+        </div>
+      </div>
+
+      <div className="container">
+        <div className="wow fadeInUp" data-wow-delay=".2s">
+          <div className="-mx-4 flex flex-wrap items-center">
+            <div className="w-full px-4 lg:w-1/2">
+              <div className="mb-12 max-w-[540px] lg:mb-0">
+                <h2 className="mb-5 text-3xl font-bold leading-tight text-dark dark:text-white sm:text-[40px] sm:leading-[1.2]">
+                  Personal Service, Practical Results
+                </h2>
+                <p className="mb-10 text-base leading-relaxed text-body-color dark:text-dark-6">
+                  Our approach is rooted in personal connection. With a focus on listening and understanding your unique needs, we ensure you feel empowered and in control every step of the way. 
+                  <br /> <br />
+                  We take the time to understand your challenges and goals, building solutions that are practical, intuitive, and seamlessly integrated into your existing processes.
+                  <br /> <br />
+                  From boutique hotels to retail stores, property management firms, and more, our clients trust us to deliver measurable results that boost their bottom line while freeing up valuable time for what matters most.
+                </p>
+
+              </div>
+            </div>
+
+            <div className="w-full px-4 lg:w-1/2">
+              <div className="-mx-2 flex flex-wrap sm:-mx-4 lg:-mx-2 xl:-mx-4">
+                <div className="w-full px-2 sm:w-1/2 sm:px-4 lg:px-2 xl:px-4">
+                  <div className="relative mb-4 sm:mb-8 sm:h-[220px] md:h-[346px] lg:mb-4 lg:h-[225px] xl:mb-8 xl:h-[310px]">
+                    <Image
+                      src="/images/about/about-image-02.jpg"
+                      alt="about image"
+                      fill
+                      className="h-full w-full object-cover object-center"
+                    />
+                  </div>
+                </div>
+              </div>
+            </div>
+
+          </div>
+        </div>
+      </div>
+
+      <div className="container">
+        <div className="wow fadeInUp" data-wow-delay=".2s">
+          <div className="-mx-4 flex flex-wrap items-center">
+            <div className="w-full px-4 lg:w-1/2">
+              <div className="mb-12 max-w-[540px] lg:mb-0">
+                <h2 className="mb-5 text-3xl font-bold leading-tight text-dark dark:text-white sm:text-[40px] sm:leading-[1.2]">
+                  Empowering You with AI
+                </h2>
+                <p className="mb-10 text-base leading-relaxed text-body-color dark:text-dark-6">
+                  What sets Alpine AI Solutions apart is our commitment to clarity and partnership. We demystify AI, making it accessible and actionable for businesses like yours.
+                  <br /> <br />
+                  With integrity, respect, and a passion for quality craftsmanship, we’re here to help you harness technology to work smarter, not harder, driving both efficiency and profitability.
+                </p>
+
+              </div>
+            </div>
+
+            <div className="w-full px-4 lg:w-1/2">
+              <div className="-mx-2 flex flex-wrap sm:-mx-4 lg:-mx-2 xl:-mx-4">
+                <div className="w-full px-2 sm:w-1/2 sm:px-4 lg:px-2 xl:px-4">
+                  <div className="relative mb-4 sm:mb-8 sm:h-[220px] md:h-[346px] lg:mb-4 lg:h-[225px] xl:mb-8 xl:h-[310px]">
+                    <Image
+                      src="/images/about/about-image-02.jpg"
+                      alt="about image"
+                      fill
+                      className="h-full w-full object-cover object-center"
+                    />
+                  </div>
+                </div>
+              </div>
+            </div>
+
+          </div>
+        </div>
+      </div>
+
+      <div className="container">
+        <div className="wow fadeInUp" data-wow-delay=".2s">
+          <div className="-mx-4 flex flex-wrap items-center">
+            <div className="w-full px-4 lg:w-1/2">
+              <div className="mb-12 max-w-[540px] lg:mb-0">
+                <h2 className="mb-5 text-3xl font-bold leading-tight text-dark dark:text-white sm:text-[40px] sm:leading-[1.2]">
+                  Your Business, Elevated
+                </h2>
+                <p className="mb-10 text-base leading-relaxed text-body-color dark:text-dark-6">
+                  Take the next step with Alpine AI Solutions—because your business deserves more than one-size-fits-all technology.
+                  <br /> <br />
+                  Together, we’ll create tools that accelerate your success, reduce operating costs, and save time while keeping the human touch at the heart of everything we do.
+                </p>
+
+              </div>
+            </div>
+
+            <div className="w-full px-4 lg:w-1/2">
+              <div className="-mx-2 flex flex-wrap sm:-mx-4 lg:-mx-2 xl:-mx-4">
+                <div className="w-full px-2 sm:w-1/2 sm:px-4 lg:px-2 xl:px-4">
+                  <div className="relative mb-4 sm:mb-8 sm:h-[220px] md:h-[346px] lg:mb-4 lg:h-[225px] xl:mb-8 xl:h-[310px]">
+                    <Image
+                      src="/images/about/about-image-02.jpg"
+                      alt="about image"
+                      fill
+                      className="h-full w-full object-cover object-center"
+                    />
+                  </div>
+                </div>
+              </div>
+            </div>
+
           </div>
         </div>
       </div>
