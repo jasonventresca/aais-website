@@ -2,7 +2,7 @@ import { TeamType } from "@/types/team";
 import Image from "next/image";
 
 const SingleTeam = ({ team }: { team: TeamType }) => {
-  const { image, name, designation, facebookLink, twitterLink, instagramLink } =
+  const { image, name, designation, facebookLink, twitterLink, instagramLink, linkedinLink } =
     team;
   return (
     <div className="w-full px-4 sm:w-1/2 lg:w-1/4 xl:w-1/4">
@@ -309,6 +309,19 @@ const SingleTeam = ({ team }: { team: TeamType }) => {
                   fill=""
                 />
               </svg>
+            </a>
+            <a
+              aria-label="social link"
+              href={linkedinLink}
+              className="text-dark-6 hover:text-primary"
+            >
+              <Image
+                src="/images/team/linkedin-3-64.png"
+                alt="LinkedIn"
+                width={18}
+                height={18}
+                className="fill-current"
+              />
             </a>
           </div>
         </div>
