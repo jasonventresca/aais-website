@@ -5,8 +5,8 @@ import SingleTeam from "./SingleTeam";
 const teamData: TeamType[] = [
   {
     id: 1,
-    name: "Adveen Desuza",
-    designation: "UI Designer",
+    name: "Jason Ventresca",
+    designation: "Co-founder & Software Engineer",
     image: "/images/team/team-01.png",
     facebookLink: "/#",
     twitterLink: "/#",
@@ -14,27 +14,9 @@ const teamData: TeamType[] = [
   },
   {
     id: 2,
-    name: "Jezmin uniya",
-    designation: "Product Designer",
+    name: "Mario Spano",
+    designation: "Co-founder &rBusiness Development",
     image: "/images/team/team-02.png",
-    facebookLink: "/#",
-    twitterLink: "/#",
-    instagramLink: "/#",
-  },
-  {
-    id: 3,
-    name: "Andrieo Gloree",
-    designation: "App Developer",
-    image: "/images/team/team-03.png",
-    facebookLink: "/#",
-    twitterLink: "/#",
-    instagramLink: "/#",
-  },
-  {
-    id: 4,
-    name: "Jackie Sanders",
-    designation: "Content Writer",
-    image: "/images/team/team-04.png",
     facebookLink: "/#",
     twitterLink: "/#",
     instagramLink: "/#",
@@ -50,9 +32,9 @@ const Team = () => {
       <div className="container">
         <div className="mb-[60px]">
           <SectionTitle
-            subtitle="Our Team"
+            subtitle=""
             title="Meet Our Team"
-            paragraph="There are many variations of passages of Lorem Ipsum available but the majority have suffered alteration in some form."
+            paragraph="We are fascinated and excited by the potential of AI to supercharge creativity and productivity. Our passion for partnering with business owners to solve real-world problems with cutting-edge technology drives us to help you achieve your most ambitious business goals."
             width="640px"
             center
           />

@@ -12,17 +12,14 @@ const About = () => {
             <div className="w-full px-4 lg:w-1/2">
               <div className="mb-12 max-w-[540px] lg:mb-0">
                 <h2 className="mb-5 text-3xl font-bold leading-tight text-dark dark:text-white sm:text-[40px] sm:leading-[1.2]">
-                  Brilliant Toolkit to Build Next.js SaaS Websites.
+                 Unlock Your Potential
+                 <br />
+                 With Alpine AI Solutions
                 </h2>
                 <p className="mb-10 text-base leading-relaxed text-body-color dark:text-dark-6">
-                  The main thrust is to focus on educating attendees on how to
-                  best protect highly vulnerable business applications with
-                  interactive panel discussions and roundtables led by subject
-                  matter experts.
+                  At Alpine AI Solutions, we're driven by a deep fascination with artificial intelligence and its ability to supercharge creativity and productivity. We believe in the power of technology to solve real-world problems and make a positive impact on businesses and individuals. 
                   <br /> <br />
-                  The main thrust is to focus on educating attendees on how to
-                  best protect highly vulnerable business applications with
-                  interactive panel.
+                  Our passion is to partner with fellow entrepreneurs and business owners, understanding their unique challenges and translating them into effective AI solutions. We listen carefully, collaborate closely, and leverage our expertise to empower businesses to thrive in the age of artificial intelligence.
                 </p>
 
                 <a
