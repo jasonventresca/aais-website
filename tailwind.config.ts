@@ -12,7 +12,12 @@ const config: Config = {
     extend: {
       colors: {
         ...colors,
-        // primary: "#1A202C",
+        primary: "#074799",
+        cosmic: "#001A6E",
+        emerald: "#009990",
+        lime: "#E1FFBB",
+        //"body-color": "#009990",
+
       },
     },
   },
