@@ -14,8 +14,8 @@ import { getAllPosts } from "@/utils/markdown";
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Play Next.js - SaaS Starter Kit and Boilerplate for Next.js",
-  description: "Free Next.js SaaS Boilerplate and Starter Kit designed and built for SaaS startups. It comes with all necessary integrations, pages, and components you need to launch a feature-rich SaaS websites.",
+  title: "Alpine AI Solutions",
+  description: "Alpine AI Solutions empowers small-to-medium businesses to harness the potential of artificial intelligence for real results. We deliver custom AI solutions tailored to your unique needs, increasing profits and freeing up your time to focus on what matters most.",
 };
 
 export default function Home() {
