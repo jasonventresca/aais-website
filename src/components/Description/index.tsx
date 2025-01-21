@@ -28,7 +28,7 @@ const About = () => {
                   <div className="w-full p-[50px] sm:w-full">
                     <div className="relative mb-4 sm:mb-8 sm:h-[220px] md:h-[346px] lg:mb-4 lg:h-[225px] xl:mb-8 xl:h-[310px]">
                       <Image
-                        src="/images/about/about-image-02.jpg"
+                        src="/images/description/erika-fletcher-GJwgw_XqooQ-unsplash.jpg"
                         alt="about image"
                         fill
                         className="h-full w-full object-cover object-center"
@@ -69,7 +69,7 @@ const About = () => {
                   <div className="w-full p-[50px] sm:w-full">
                     <div className="relative mb-4 sm:mb-8 sm:h-[220px] md:h-[346px] lg:mb-4 lg:h-[225px] xl:mb-8 xl:h-[310px]">
                       <Image
-                        src="/images/about/about-image-02.jpg"
+                        src="/images/description/chris-ried-ieic5Tq8YMk-unsplash.jpg"
                         alt="about image"
                         fill
                         className="h-full w-full object-cover object-center"
@@ -112,7 +112,7 @@ const About = () => {
                   <div className="w-full p-[50px] sm:w-full">
                     <div className="relative mb-4 sm:mb-8 sm:h-[220px] md:h-[346px] lg:mb-4 lg:h-[225px] xl:mb-8 xl:h-[310px]">
                       <Image
-                        src="/images/about/about-image-02.jpg"
+                        src="/images/description/paul-pastourmatzis-4i97n6L0XuY-unsplash.jpg"
                         alt="about image"
                         fill
                         className="h-full w-full object-cover object-center"
@@ -152,7 +152,7 @@ const About = () => {
                   <div className="w-full p-[50px] sm:w-full">
                     <div className="relative mb-4 sm:mb-8 sm:h-[220px] md:h-[346px] lg:mb-4 lg:h-[225px] xl:mb-8 xl:h-[310px]">
                       <Image
-                        src="/images/about/about-image-02.jpg"
+                        src="/images/description/jeremy-thomas-pq2DJBntZW0-unsplash.jpg"
                         alt="about image"
                         fill
                         className="h-full w-full object-cover object-center"
@@ -192,7 +192,7 @@ const About = () => {
                   <div className="w-full p-[50px] sm:w-full">
                     <div className="relative mb-4 sm:mb-8 sm:h-[220px] md:h-[346px] lg:mb-4 lg:h-[225px] xl:mb-8 xl:h-[310px]">
                       <Image
-                        src="/images/about/about-image-02.jpg"
+                        src="/images/description/Humphreys-Peak-AZ.png"
                         alt="about image"
                         fill
                         className="h-full w-full object-cover object-center"
