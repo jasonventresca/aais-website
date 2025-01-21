@@ -29,7 +29,7 @@ export default function Home() {
       <Contact />
       <Team />
       <About />
-      <Faq />
+      { /* <Faq /> */ }
       <Clients />
       { /* <HomeBlogSection posts={posts} /> */ }
     </main>

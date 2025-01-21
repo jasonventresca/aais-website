@@ -141,14 +141,6 @@ const Footer = () => {
                     Request a Consultation
                   </a>
                 </li>
-                <li>
-                  <a
-                    href="/#faq"
-                    className="mb-3 inline-block text-base text-gray-7 hover:text-primary"
-                  >
-                    FAQ
-                  </a>
-                </li>
               </ul>
             </div>
           </div>
