@@ -21,8 +21,8 @@ const Footer = () => {
                 />
               </Link>
               <p className="mb-8 max-w-[270px] text-base text-gray-7">
-                We create digital experiences for brands and companies by using
-                technology.
+                We deliver custom AI solutions tailored to your unique needs,
+                increasing profits and freeing up your time to focus on what matters most.
               </p>
               <div className="-mx-3 flex items-center">
                 <a
@@ -110,15 +110,7 @@ const Footer = () => {
                 </li>
                 <li>
                   <a
-                    href="/#"
-                    className="mb-3 inline-block text-base text-gray-7 hover:text-primary"
-                  >
-                    Features
-                  </a>
-                </li>
-                <li>
-                  <a
-                    href="/#"
+                    href="/about"
                     className="mb-3 inline-block text-base text-gray-7 hover:text-primary"
                   >
                     About
@@ -126,10 +118,10 @@ const Footer = () => {
                 </li>
                 <li>
                   <a
-                    href="/#"
+                    href="/#team"
                     className="mb-3 inline-block text-base text-gray-7 hover:text-primary"
                   >
-                    Testimonial
+                    Team
                   </a>
                 </li>
               </ul>
@@ -138,121 +130,23 @@ const Footer = () => {
           <div className="w-full px-4 sm:w-1/2 md:w-1/2 lg:w-3/12 xl:w-2/12">
             <div className="mb-10 w-full">
               <h4 className="mb-9 text-lg font-semibold text-white">
-                Features
+                Get in Touch
               </h4>
               <ul>
                 <li>
                   <a
-                    href="/#"
+                    href="/contact"
                     className="mb-3 inline-block text-base text-gray-7 hover:text-primary"
                   >
-                    How it works
+                    Request a Consultation
                   </a>
                 </li>
                 <li>
                   <a
-                    href="/#"
-                    className="mb-3 inline-block text-base text-gray-7 hover:text-primary"
-                  >
-                    Privacy policy
-                  </a>
-                </li>
-                <li>
-                  <a
-                    href="/#"
-                    className="mb-3 inline-block text-base text-gray-7 hover:text-primary"
-                  >
-                    Terms of Service
-                  </a>
-                </li>
-                <li>
-                  <a
-                    href="/#"
-                    className="mb-3 inline-block text-base text-gray-7 hover:text-primary"
-                  >
-                    Refund policy
-                  </a>
-                </li>
-              </ul>
-            </div>
-          </div>
-          <div className="w-full px-4 sm:w-1/2 md:w-1/2 lg:w-3/12 xl:w-2/12">
-            <div className="mb-10 w-full">
-              <h4 className="mb-9 text-lg font-semibold text-white">
-                Our Products
-              </h4>
-              <ul>
-                <li>
-                  <a
-                    href="/#"
-                    className="mb-3 inline-block text-base text-gray-7 hover:text-primary"
-                  >
-                    LineIcons
-                  </a>
-                </li>
-                <li>
-                  <a
-                    href="/#"
-                    className="mb-3 inline-block text-base text-gray-7 hover:text-primary"
-                  >
-                    Next.js Templates
-                  </a>
-                </li>
-                <li>
-                  <a
-                    href="/#"
-                    className="mb-3 inline-block text-base text-gray-7 hover:text-primary"
-                  >
-                    TailAdmin
-                  </a>
-                </li>
-                <li>
-                  <a
-                    href="/#"
-                    className="mb-3 inline-block text-base text-gray-7 hover:text-primary"
-                  >
-                    PlainAdmin
-                  </a>
-                </li>
-              </ul>
-            </div>
-          </div>
-          <div className="w-full px-4 md:w-2/3 lg:w-6/12 xl:w-3/12">
-            <div className="mb-10 w-full">
-              <h4 className="mb-9 text-lg font-semibold text-white">
-                Useful Links
-              </h4>
-              <ul>
-                <li>
-                  <a
-                    href="/#"
+                    href="/#faq"
                     className="mb-3 inline-block text-base text-gray-7 hover:text-primary"
                   >
                     FAQ
-                  </a>
-                </li>
-                <li>
-                  <a
-                    href="/#"
-                    className="mb-3 inline-block text-base text-gray-7 hover:text-primary"
-                  >
-                    Blogs
-                  </a>
-                </li>
-                <li>
-                  <a
-                    href="/#"
-                    className="mb-3 inline-block text-base text-gray-7 hover:text-primary"
-                  >
-                    Support
-                  </a>
-                </li>
-                <li>
-                  <a
-                    href="/#"
-                    className="mb-3 inline-block text-base text-gray-7 hover:text-primary"
-                  >
-                    About
                   </a>
                 </li>
               </ul>
