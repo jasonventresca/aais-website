@@ -29,11 +29,9 @@ export default function Home() {
       <Contact />
       <Team />
       <About />
-      <Testimonials />
       <Faq />
       <Clients />
-      <CallToAction />
-      <HomeBlogSection posts={posts} />
+      { /* <HomeBlogSection posts={posts} /> */ }
     </main>
   );
 }
