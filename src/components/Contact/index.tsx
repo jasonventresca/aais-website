@@ -72,19 +72,35 @@ const Contact = () => {
               <h3 className="mb-8 text-2xl font-semibold text-dark dark:text-white md:text-[28px] md:leading-[1.42]">
                 Send us a Message
               </h3>
-              <form>
+              <form action="https://formsubmit.co/a62898fd5b973bb471a202fba3ee9580" method="POST">
                 <div className="mb-[22px]">
                   <label
-                    htmlFor="fullName"
+                    htmlFor="name"
                     className="mb-4 block text-sm text-body-color dark:text-dark-6"
                   >
-                    Full Name*
+                    Name*
                   </label>
                   <input
                     type="text"
-                    name="fullName"
-                    placeholder="Adam Gelius"
+                    name="name"
+                    placeholder="Siri Mac"
                     className="w-full border-0 border-b border-[#f1f1f1] bg-transparent pb-3 text-dark placeholder:text-body-color/60 focus:border-primary focus:outline-none dark:border-dark-3 dark:text-white"
+                    required
+                  />
+                </div>
+                <div className="mb-[22px]">
+                  <label
+                    htmlFor="businessName"
+                    className="mb-4 block text-sm text-body-color dark:text-dark-6"
+                  >
+                    Name of Business*
+                  </label>
+                  <input
+                    type="text"
+                    name="businessName"
+                    placeholder="Apple, Inc."
+                    className="w-full border-0 border-b border-[#f1f1f1] bg-transparent pb-3 text-dark placeholder:text-body-color/60 focus:border-primary focus:outline-none dark:border-dark-3 dark:text-white"
+                    required
                   />
                 </div>
                 <div className="mb-[22px]">
@@ -97,7 +113,7 @@ const Contact = () => {
                   <input
                     type="email"
                     name="email"
-                    placeholder="example@yourmail.com"
+                    placeholder="your@email.com"
                     className="w-full border-0 border-b border-[#f1f1f1] bg-transparent pb-3 text-dark placeholder:text-body-color/60 focus:border-primary focus:outline-none dark:border-dark-3 dark:text-white"
                   />
                 </div>
@@ -111,7 +127,7 @@ const Contact = () => {
                   <input
                     type="text"
                     name="phone"
-                    placeholder="+885 1254 5211 552"
+                    placeholder="123-456-7890"
                     className="w-full border-0 border-b border-[#f1f1f1] bg-transparent pb-3 text-dark placeholder:text-body-color/60 focus:border-primary focus:outline-none dark:border-dark-3 dark:text-white"
                   />
                 </div>
@@ -124,7 +140,7 @@ const Contact = () => {
                   </label>
                   <textarea
                     name="message"
-                    rows={1}
+                    rows={2}
                     placeholder="type your message here"
                     className="w-full resize-none border-0 border-b border-[#f1f1f1] bg-transparent pb-3 text-dark placeholder:text-body-color/60 focus:border-primary focus:outline-none dark:border-dark-3 dark:text-white"
                   ></textarea>
