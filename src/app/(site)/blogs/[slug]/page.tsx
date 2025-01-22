@@ -64,6 +64,13 @@ export async function generateMetadata({ params }: Props) {
   }
 }
 
+export async function generateStaticParams() {
+  const posts = getAllPosts(["slug"]);
+  return posts.map((post) => ({
+    slug: post.slug,
+  }));
+}
+
 export default async function Post({ params }: Props) {
   const posts = getAllPosts(["title", "date", "excerpt", "coverImage", "slug"]);
   const post = getPostBySlug(params.slug, [
