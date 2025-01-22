@@ -11,6 +11,7 @@ const teamData: TeamType[] = [
     facebookLink: "/#",
     twitterLink: "/#",
     instagramLink: "/#",
+    linkedinLink: "/#",
   },
   {
     id: 2,
@@ -20,6 +21,7 @@ const teamData: TeamType[] = [
     facebookLink: "/#",
     twitterLink: "/#",
     instagramLink: "/#",
+    linkedinLink: "/#",
   },
 ];
 
