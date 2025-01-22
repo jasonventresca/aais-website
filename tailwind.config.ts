@@ -12,7 +12,8 @@ const config: Config = {
     extend: {
       colors: {
         ...colors,
-        primary: "#074799",
+        //primary: "#074799",
+        primary: "#001A6E",
         cosmic: "#001A6E",
         emerald: "#009990",
         lime: "#E1FFBB",

@@ -6,7 +6,7 @@ const teamData: TeamType[] = [
   {
     id: 1,
     name: "Jason Ventresca",
-    designation: "Co-founder & Software Engineer",
+    designation: "Co-founder, Software Engineering",
     image: "/images/team/jason-headshot.jpg",
     facebookLink: "/#",
     twitterLink: "/#",
@@ -15,7 +15,7 @@ const teamData: TeamType[] = [
   {
     id: 2,
     name: "Mario Spano",
-    designation: "Co-founder &rBusiness Development",
+    designation: "Co-founder, Business Development",
     image: "/images/team/mario-headshot.jpg",
     facebookLink: "/#",
     twitterLink: "/#",

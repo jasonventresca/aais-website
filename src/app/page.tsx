@@ -26,11 +26,10 @@ export default function Home() {
       <ScrollUp />
       <Hero />
       <Description />
-      <Contact />
       <Team />
       <About />
       { /* <Faq /> */ }
-      <Clients />
+      <Contact />
       { /* <HomeBlogSection posts={posts} /> */ }
     </main>
   );
