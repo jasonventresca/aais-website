@@ -244,6 +244,7 @@ const SingleTeam = ({ team }: { team: TeamType }) => {
           <p className="mb-5 text-sm text-body-color dark:text-dark-6">
             {designation}
           </p>
+          { /*
           <div className="flex items-center justify-center gap-5">
             <a
               aria-label="social link"
@@ -324,6 +325,7 @@ const SingleTeam = ({ team }: { team: TeamType }) => {
               />
             </a>
           </div>
+          */ }
         </div>
       </div>
     </div>
