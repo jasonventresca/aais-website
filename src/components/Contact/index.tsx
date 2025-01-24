@@ -30,10 +30,10 @@ const Contact = () => {
                   </div>
                   <div>
                     <h3 className="mb-[18px] text-lg font-semibold text-dark dark:text-white">
-                      Our Location
+                      On-site Consultations
                     </h3>
                     <p className="text-base text-body-color dark:text-dark-6">
-                      401 Broadway, 24th Floor, Orchard Cloud View, London
+                      Based in beautiful Flagstaff, AZ, we are thrilled to provide in-person consultations and on-the-ground at your office location.
                     </p>
                   </div>
                 </div>
@@ -50,13 +50,10 @@ const Contact = () => {
                   </div>
                   <div>
                     <h3 className="mb-[18px] text-lg font-semibold text-dark dark:text-white">
-                      How Can We Help?
+                      Virtual Consultations
                     </h3>
                     <p className="text-base text-body-color dark:text-dark-6">
-                      info@yourdomain.com
-                    </p>
-                    <p className="mt-1 text-base text-body-color dark:text-dark-6">
-                      contact@yourdomain.com
+                      For all other US locations, we offer virtual consultations and world-class, remote services. Only a phone call away, we monitor and support your business needs from afar.
                     </p>
                   </div>
                 </div>
