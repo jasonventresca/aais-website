@@ -17,9 +17,9 @@ const About = () => {
                  With Alpine AI Solutions
                 </h2>
                 <p className="mb-10 text-base leading-relaxed text-body-color dark:text-dark-6">
-                  {`At Alpine AI Solutions, we're driven by a deep fascination with artificial intelligence and its ability to supercharge creativity and productivity. We believe in the power of technology to solve real-world problems and make a positive impact on businesses and individuals. 
+                  {`At Alpine AI Solutions, we're driven by a deep fascination with artificial intelligence and its ability to supercharge creativity and productivity. We believe in the power of technology to solve real-world problems and make a positive impact on businesses and individuals.`}
                   <br /> <br />
-                  Our passion is to partner with fellow entrepreneurs and business owners, understanding their unique challenges and translating them into effective AI solutions. We listen carefully, collaborate closely, and leverage our expertise to empower businesses to thrive in the age of artificial intelligence.`}
+                  {`Our passion is to partner with fellow entrepreneurs and business owners, understanding their unique challenges and translating them into effective AI solutions. We listen carefully, collaborate closely, and leverage our expertise to empower businesses to thrive in the age of artificial intelligence.`}
                 </p>
               </div>
             </div>
