@@ -69,7 +69,7 @@ const Contact = () => {
               <h3 className="mb-8 text-2xl font-semibold text-dark dark:text-white md:text-[28px] md:leading-[1.42]">
                 Send us a Message
               </h3>
-              <form action="https://formsubmit.co/team@alpineai.tech" method="POST">
+              <form action="https://formsubmit.co/9d0a52e4108d007707c61e6d4401cf3d" method="POST">
                 <div className="mb-[22px]">
                   <label
                     htmlFor="name"
