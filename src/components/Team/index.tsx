@@ -17,7 +17,7 @@ const teamData: TeamType[] = [
     id: 2,
     name: "Mario Spano",
     designation: "Co-founder, Business Development",
-    image: "/images/team/mario-headshot-suit.jpg",
+    image: "/images/team/mario-headshot-2.jpg",
     facebookLink: "/#",
     twitterLink: "/#",
     instagramLink: "/#",
