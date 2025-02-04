@@ -28,7 +28,7 @@ const About = () => {
                   <div className="w-full p-[50px] sm:w-full">
                     <div className="relative mb-4 sm:mb-8 sm:h-[220px] md:h-[346px] lg:mb-4 lg:h-[225px] xl:mb-8 xl:h-[310px]">
                       <Image
-                        src="/images/description/conference.png"
+                        src="/images/description/conference.jpg"
                         alt="about image"
                         fill
                         className="h-full w-full object-cover object-center"
