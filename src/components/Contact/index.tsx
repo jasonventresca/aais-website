@@ -80,7 +80,7 @@ const Contact = () => {
                   <input
                     type="text"
                     name="name"
-                    placeholder="Siri Mac"
+                    placeholder="First Last"
                     className="w-full border-0 border-b border-[#f1f1f1] bg-transparent pb-3 text-dark placeholder:text-body-color/60 focus:border-primary focus:outline-none dark:border-dark-3 dark:text-white"
                     required
                   />
@@ -95,7 +95,7 @@ const Contact = () => {
                   <input
                     type="text"
                     name="businessName"
-                    placeholder="Apple, Inc."
+                    placeholder="Your Small/Medium Biz, Inc."
                     className="w-full border-0 border-b border-[#f1f1f1] bg-transparent pb-3 text-dark placeholder:text-body-color/60 focus:border-primary focus:outline-none dark:border-dark-3 dark:text-white"
                     required
                   />
