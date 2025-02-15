@@ -33,7 +33,7 @@ const Contact = () => {
                       On-site Consultations
                     </h3>
                     <p className="text-base text-body-color dark:text-dark-6">
-                      Based in beautiful Flagstaff, AZ, we are thrilled to provide in-person consultations and on-the-ground at your office location.
+                      Based in beautiful Flagstaff, AZ, we are thrilled to provide in-person consultations and on-site support at your office location.
                     </p>
                   </div>
                 </div>
